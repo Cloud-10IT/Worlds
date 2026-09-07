@@ -305,3 +305,23 @@ None
 The world does not know his name.
 
 For now.
+
+Primary Summons:
+
+Demon Hound
+White Dragon
+
+Related Files:
+
+Demon_Hound.md
+White_Dragon.md
+
+Keywords:
+
+aldric
+aldric voss
+warlock
+main character
+summoner
+demon hound
+white dragon
